@@ -1,7 +1,4 @@
-/* eslint-disable */
 import { AccountModel } from 'domain/models/account-model'
-
-/* eslint-enable */
 
 type AuthenticationParams = {
   email: string
